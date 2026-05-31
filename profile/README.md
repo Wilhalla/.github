@@ -8,6 +8,8 @@ samentuin. Momenteel zijn we met een groep van 15 vrijwilligers en onderhouden
 we samen de moestuin van ong. 300m² met een serre en folietunnel, 2
 bessenkooien met kleinfruit en een boomgaard.
 
+![Map drawing](./map.webp)
+
 ```
 Zoersel
 België
